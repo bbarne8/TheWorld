@@ -1,0 +1,20 @@
+﻿{
+  "MailSettings": {
+    "ToAddress": "Benji@Email.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDb;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true"
+  },
+  "Keys": {
+    "BingKey": "AubDZx_JnfQIUK9yXCzpvi4i1_pIwfkft-HsBODLQhBKDPGPjQQwTYwwmrgnTWk_"
+
+  },
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Debug",
+      "System": "Information",
+      "Microsoft": "Information"
+    }
+  }
+}
